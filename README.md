@@ -22,7 +22,7 @@ ACMer,but get no medal,only get 750/2700 in ICPC online Shanghai,2021,and get Fi
 
 Finalist Winner of the 2022 American College Student Mathematical Modeling Competition
 
-Kaggle Featured Code Competition Silver medal*1 and Bronze Medal*1
+Kaggle Featured Code Competition Silver medal\*1 and Bronze Medal\*1
 
 <br>
 
